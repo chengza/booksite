@@ -7,7 +7,7 @@
 2.所需要的环境与组件
 -------------
 >主要用到环境：Python3.6<br/>
->Django1.11.7<br/>
+>Django1.11.7  2017年发布<br/>
 >Pymysql<br/>
 >Mysql<br/>
 >pure_pagination<br/>
