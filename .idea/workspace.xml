@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7f370e-1bf1-49a7-ace6-3aecce4c4878" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Django-Imitation-osmetic-urge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-Imitation-osmetic-urge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Xiao_bai/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xiao_bai/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bast.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bast.html" afterDir="false" />
+    <list default="true" id="6c7f370e-1bf1-49a7-ace6-3aecce4c4878" name="Default" comment="pip install -r r.txt&#10;python manage.py migrate&#10;python manage.py runserver">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -113,8 +110,16 @@
       <option name="presentableId" value="Default" />
       <updated>1516932103475</updated>
       <workItem from="1650328808512" duration="1496000" />
-      <workItem from="1650333500899" duration="2234000" />
+      <workItem from="1650333500899" duration="2761000" />
     </task>
+    <task id="LOCAL-00001" summary="pip install -r r.txt&#10;python manage.py migrate&#10;python manage.py runserver">
+      <created>1650336118961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650336118961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -144,5 +149,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pip install -r r.txt&#10;python manage.py migrate&#10;python manage.py runserver" />
+    <option name="LAST_COMMIT_MESSAGE" value="pip install -r r.txt&#10;python manage.py migrate&#10;python manage.py runserver" />
   </component>
 </project>
