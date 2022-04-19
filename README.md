@@ -7,6 +7,8 @@
 2.所需要的环境与组件
 -------------
 >pip install -r r.txt
+> pip uninstall  django-simple-captcha
+> pip install  django-simple-captcha==0.5.4
 
 3.安装
 -------------
@@ -23,7 +25,7 @@
 >2.然后访问```http://127.0.0.0:8000```<br/>
 >
 >3.后台地址```http://127.0.0.0:8000/admin/```<br/>
->
+>4.已创建的管理员账户xiaobai  密码xbai1dea
 
 5.项目效果图
 -------------

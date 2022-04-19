@@ -22,7 +22,7 @@ class GlobalSetting(object):
 
 #普通用户管理注册
 class UserProFileAdmin(object):
-    list_display = ["hy_dj","gender","nick_name","email","mobile","hy_xbb","register_time"] #后台显示类型
+    list_display = ["hy_dj","gender","nick_name","email","mobile","hy_xbb","register_time","is_jh"] #后台显示类型
     search_fields = ["hy_dj","gender","nick_name","email","mobile"] #设置搜索
     list_filter = ["hy_dj","gender","nick_name","email","mobile"] #搜索过滤器
     model_icon = "fa fa-user" #这样可以替换与设置原有的Xadmin的图标
